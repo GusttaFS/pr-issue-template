@@ -1,6 +1,6 @@
 ---
 name: Test
-about: Suggest tests that need to be done
+about: Suggest the test that need to be done
 title: 'Test - '
 labels: ':lab_coat: Tests'
 assignees: ''
@@ -8,5 +8,15 @@ assignees: ''
 
 **What type of test is missing?**
 - [ ] Unit test;
-- [ ] Integration testing;
-- [ ] Stress test;
+- [ ] Usability testing;
+- [ ] System testing;
+
+**What feature does the test apply to?**
+
+A clear and concise description of the feature that the test is related to.
+
+**Additional context**
+
+Add any other context about the test here.
+
+

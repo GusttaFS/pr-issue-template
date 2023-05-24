@@ -2,7 +2,7 @@ Before submitting the pull request, please fill out the following form:
 
 **The link to the associated issue**
 
-https://github.com/DPHEIRDR/ZikaAppBackEnd2/issues/[issueCodeHere]
+[Issue #[code]](https://github.com/DPHEIRDR/ZikaAppBackEnd2/issues/[code])
 
 **What is this pull request for?**
 

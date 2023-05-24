@@ -1,10 +1,8 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
+name: Documentation
+about: Indicate which part requires documentation
+title: 'Docs - '
+labels: ':page_facing_up: documentation'
 assignees: ''
-
 ---
-
 
